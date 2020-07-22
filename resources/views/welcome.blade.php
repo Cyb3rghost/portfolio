@@ -190,7 +190,7 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 18rem;">
-                        <a href="https://ludovic-leveneur.re/images/01.jpg"><img src="https://ludovic-leveneur.re/images/01.jpg" class="card-img-top" alt="..."></a>
+                        <a href="{{ asset('assets/img/01.jpg') }}"><img src="{{ asset('assets/img/01.jpg') }}" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                           <h5 class="card-title">Sunriver - Location saisonnière / Wordpress / DIVI</h5>
                           <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
@@ -203,7 +203,7 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 18rem;">
-                        <a href="https://ludovic-leveneur.re/images/02.jpg"><img src="https://ludovic-leveneur.re/images/02.jpg" class="card-img-top" alt="..."></a>
+                        <a href="{{ asset('assets/img/02.jpg') }}"><img src="{{ asset('assets/img/02.jpg') }}" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                           <h5 class="card-title">App. web "Réservation" / Fram. CSS Materialize / Fram. Laravel</h5>
                           <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
@@ -215,7 +215,7 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 18rem;">
-                        <a href="https://ludovic-leveneur.re/images/03.jpg"><img src="https://ludovic-leveneur.re/images/03.jpg" class="card-img-top" alt="..."></a>
+                        <a href="{{ asset('assets/img/03.jpg') }}"><img src="{{ asset('assets/img/03.jpg') }}" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                           <h5 class="card-title">Calc. taxe de séjour / Fram. CSS Materialize / Fram. Laravel</h5>
                           <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
@@ -230,7 +230,7 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 18rem;">
-                        <a href="https://ludovic-leveneur.re/images/04.jpg"><img src="https://ludovic-leveneur.re/images/04.jpg" class="card-img-top" alt="..."></a>
+                        <a href="{{ asset('assets/img/04.jpg') }}"><img src="{{ asset('assets/img/04.jpg') }}" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                           <h5 class="card-title">Gest. ordinateurs centre culturel / Fram. CSS Bootstrap / Fram. Laravel</h5>
                           <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
@@ -243,7 +243,7 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 18rem;">
-                        <a href="https://ludovic-leveneur.re/images/todolist.jpg"><img src="https://ludovic-leveneur.re/images/todolist.jpg" class="card-img-top" alt="..."></a>
+                        <a href="{{ asset('assets/img/todolist.jpg') }}"><img src="{{ asset('assets/img/todolist.jpg') }}" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                           <h5 class="card-title">ToDoList / HTML / CSS / BOOTSTRAP / JS / JQUERY / SQLITE</h5>
                           <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
