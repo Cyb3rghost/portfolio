@@ -147,15 +147,15 @@
                 <li class="list-inline-item"><img src="https://img.icons8.com/dusk/100/000000/php-logo.png"></li>
                 <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/bootstrap.png"></li>
                 <li class="list-inline-item"><img src="https://img.icons8.com/ios/100/000000/laravel.png"></li>
-                <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/wordpress.png"></li>
+                <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/nodejs.png"/></li>
                 <li class="list-inline-item"><img src="https://img.icons8.com/officel/100/000000/react.png"></li>
-
+                <li class="list-inline-item"><img src="https://img.icons8.com/windows/100/000000/vuejs.png"/></li>
             </ul>
             <div class="subheading mb-3">Outils</div>
             <ul class="list-inline dev-icons">
                 <li class="list-inline-item"><img src="https://img.icons8.com/ios-filled/100/000000/github.png"></li>
                 <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/trello.png"></li>
-                <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/nodejs.png"/></li>
+                <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/wordpress.png"></li>
                 <li class="list-inline-item"><img src="https://img.icons8.com/color/100/000000/npm.png"/></li>
             </ul>
             <!--<div class="subheading mb-3">Workflow</div>
@@ -185,89 +185,170 @@
         <div class="resume-section-content">
             <h2 class="mb-5">Projets</h2>
 
-            <div class="row">
+            <div class="card mb-2">
 
-                <div class="col-md-4">
+                <div class="card-body">
 
-                    <div class="card" style="width: 18rem;">
-                        <a href="{{ asset('assets/img/01.jpg') }}"><img src="{{ asset('assets/img/01.jpg') }}" class="card-img-top" alt="..."></a>
-                        <div class="card-body">
-                          <h5 class="card-title">Sunriver - Location saisonnière / Wordpress / DIVI</h5>
-                          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/01.jpg') }}"><img src="{{ asset('assets/img/01.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : Wordpress, DIVI</div></div>
+
                         </div>
-                        <a href="https://demo01.ludovic-leveneur.re/" class="btn btn-primary btn-block">Voir la démo</a>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Sunriver - Location saisonnière</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Site pour un projet de location saisonnière</div></div>
+                            <br/>
+                            <a href="https://demo01.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Github</button>
+
+                        </div>
 
                     </div>
 
+
                 </div>
-                <div class="col-md-4">
-
-                    <div class="card" style="width: 18rem;">
-                        <a href="{{ asset('assets/img/02.jpg') }}"><img src="{{ asset('assets/img/02.jpg') }}" class="card-img-top" alt="..."></a>
-                        <div class="card-body">
-                          <h5 class="card-title">App. web "Réservation" / Fram. CSS Materialize / Fram. Laravel</h5>
-                          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
-                        </div>
-                        <a href="https://demo02.ludovic-leveneur.re/" class="btn btn-primary btn-block">Voir la démo</a>
-                    </div>
-                    
-                </div>
-                <div class="col-md-4">
-
-                    <div class="card" style="width: 18rem;">
-                        <a href="{{ asset('assets/img/03.jpg') }}"><img src="{{ asset('assets/img/03.jpg') }}" class="card-img-top" alt="..."></a>
-                        <div class="card-body">
-                          <h5 class="card-title">Calc. taxe de séjour / Fram. CSS Materialize / Fram. Laravel</h5>
-                          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
-                        </div>
-                        <a href="https://demo03.ludovic-leveneur.re/" class="btn btn-primary btn-block">Voir la démo</a>
-                    </div><br/>
-                    
-                </div>
-
-                <br/>
-
-                <div class="col-md-4">
-
-                    <div class="card" style="width: 18rem;">
-                        <a href="{{ asset('assets/img/04.jpg') }}"><img src="{{ asset('assets/img/04.jpg') }}" class="card-img-top" alt="..."></a>
-                        <div class="card-body">
-                          <h5 class="card-title">Gest. ordinateurs centre culturel / Fram. CSS Bootstrap / Fram. Laravel</h5>
-                          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
-                        </div>
-                        <a href="https://demo04.ludovic-leveneur.re/" class="btn btn-primary btn-block">Voir la démo</a>
-                    </div>
-                    
-                </div>
-
-                <div class="col-md-4">
-
-                    <div class="card" style="width: 18rem;">
-                        <a href="{{ asset('assets/img/todolist.jpg') }}"><img src="{{ asset('assets/img/todolist.jpg') }}" class="card-img-top" alt="..."></a>
-                        <div class="card-body">
-                          <h5 class="card-title">ToDoList / HTML / CSS / BOOTSTRAP / JS / JQUERY / SQLITE</h5>
-                          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
-                        </div>
-                        <a href="https://github.com/Cyb3rghost/simplonTDL" class="btn btn-primary btn-block">Voir la démo</a>
-
-                    </div>
-                    
-                </div>
-
-
-                
-
-
-                
-
 
 
             </div>
 
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/02.jpg') }}"><img src="{{ asset('assets/img/02.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : Fram. CSS Materialize , Fram. Laravel</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Application web de réservation</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application de réservation en rapport avec le site de location.</div></div>
+                            <br/>
+                            <a href="https://demo02.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Github</button>
+
+                        </div>
+
+                    </div>
 
 
-            
+                </div>
 
+
+            </div>
+
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/03.jpg') }}"><img src="{{ asset('assets/img/03.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : Fram. CSS Materialize , Fram. Laravel</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Calculateur taxe de séjour</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Petit simulateur de taxe de séjour.</div></div>
+                            <br/>
+                            <a href="https://demo03.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Github</button>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/04.jpg') }}"><img src="{{ asset('assets/img/04.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : FRAM. CSS BOOTSTRAP / FRAM. LARAVEL</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - GEST. ORDINATEURS CENTRE CULTUREL [EXO SIMPLON]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application gestion ordinateur centre culturel.</div></div>
+                            <br/>
+                            <a href="https://demo04.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Github</button>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/todolist.jpg') }}"><img src="{{ asset('assets/img/todolist.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : HTML / CSS / BOOTSTRAP / PHP / JS / JQUERY / SQLITE</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - ToDoList [EXO SIMPLON]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application todolist.</div></div>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Voir le projet</button></a>
+                            <br/>
+                            <a href="https://github.com/Cyb3rghost/simplonTDL" target="_blank"><button class="btn btn-primary btn-block">Github</button></a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>  
 
         </div>
     </section>
