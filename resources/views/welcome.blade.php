@@ -347,8 +347,40 @@
 
                 </div>
 
+            </div>  
+
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <a href="{{ asset('assets/img/05.jpg') }}"><img src="{{ asset('assets/img/05.jpg') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : Framework CSS Bootstrap / Framework Laravel</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Application Blog collaborative [Projet personnel]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application de blog collaboratif avec des récompenses en tokens. Mode DarkMode / LightMode. Compte démo : [Demo/test] & Compte admin : [Admin/test]</div></div>
+                            <br/>
+                            <a href="https://demo05.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <a href="https://github.com/Cyb3rghost/vexium" target="_blank"><button class="btn btn-primary btn-block">Github</button></a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
 
             </div>  
+
 
         </div>
     </section>
