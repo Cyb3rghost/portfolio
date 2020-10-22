@@ -191,7 +191,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/01.jpg') }}"><img src="{{ asset('assets/img/01.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
@@ -224,7 +224,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/02.jpg') }}"><img src="{{ asset('assets/img/02.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
@@ -257,7 +257,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/03.jpg') }}"><img src="{{ asset('assets/img/03.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
@@ -290,7 +290,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/04.jpg') }}"><img src="{{ asset('assets/img/04.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
@@ -323,7 +323,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/todolist.jpg') }}"><img src="{{ asset('assets/img/todolist.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
@@ -355,7 +355,7 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
+                        <div class="col-md-6 mb-1">
 
                             <a href="{{ asset('assets/img/05.jpg') }}"><img src="{{ asset('assets/img/05.jpg') }}" class="card-img-top" alt="..."></a>
                             <br/><br/>
