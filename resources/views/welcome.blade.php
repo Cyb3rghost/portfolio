@@ -413,6 +413,38 @@
 
             </div>
 
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6 mb-1">
+
+                            <a href="{{ asset('assets/img/emargen.png') }}"><img src="{{ asset('assets/img/emargen.png') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : EJS / BOOTSTRAP / NODEJS / EXPRESS / MONGODB</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Application web gestion emargement [EXO SIMPLON]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application web de gestion de feuille émargement avec système de signature.</div></div>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Voir le projet</button>
+                            <br/>
+                            <a href="https://github.com/Cyb3rghost/emargement" target="_blank"><button class="btn btn-primary btn-block">Github</button></a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
 
         </div>
     </section>
