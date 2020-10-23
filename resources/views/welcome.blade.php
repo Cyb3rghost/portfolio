@@ -381,6 +381,38 @@
 
             </div>  
 
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6 mb-1">
+
+                            <a href="{{ asset('assets/img/fiche-kilometrique.png') }}"><img src="{{ asset('assets/img/fiche-kilometrique.png') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : HTML / CSS / JAVASCRIPT / NODE.JS / EXPRESS / SQLITE / ELECTRONJS</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Application bureau Fiche Kilometrique [EXO SIMPLON]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application de bureau de gestion de fiche kilométrique</div></div>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Voir le projet</button>
+                            <br/>
+                            <a href="https://github.com/Cyb3rghost/fiche_kilometrique_simplon" target="_blank"><button class="btn btn-primary btn-block">Github</button></a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
 
         </div>
     </section>
