@@ -472,7 +472,7 @@
                             <br/>
                             <div class="card text-white bg-dark text-center"><div class="card-body">Pour m'exercer sur react-native j'ai fait une version mobile de mon portfolio. (Uniquement Android)</div></div>
                             <br/>
-                            <a href="{{ asset('assets/portfolio-signed.apk') }}" target="_blank"><button class="btn btn-primary btn-block">Télécharger l'APK</button></a>
+                            <a href="https://expo.io/@cyberghost/projects/portfolio" target="_blank"><button class="btn btn-primary btn-block">Scannez le QRCode sur Expo</button></a>
                             <br/>
                             <button class="btn btn-primary btn-block" disabled>Github</button>
 
