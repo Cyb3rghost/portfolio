@@ -21,7 +21,7 @@
             <div class="social-icons">
                 <a class="social-icon" href="https://www.linkedin.com/in/ludovic-leveneur-26117817b/"><i class="fab fa-linkedin-in"></i></a>
                 <a class="social-icon" href="https://github.com/Cyb3rghost"><i class="fab fa-github"></i></a>
-                <a class="btn btn-danger" href="https://ludovic-leveneur.re/fichiers/CV%20LEVENEUR%20Ludovic%20-%20Dev%20Web%20(17012020).pdf" role="button">Curriculum vitæ</a><br/>
+                <a class="btn btn-danger" href="https://ludovic-leveneur.re/public/assets/cv.pdf" role="button">Curriculum vitæ</a><br/>
             </div>
         </div>
     </section>
@@ -471,7 +471,7 @@
         <div class="resume-section-content">
             <h2 class="mb-5">Documents</h2>
 
-            <a class="btn btn-danger" href="https://ludovic-leveneur.re/fichiers/CV%20LEVENEUR%20Ludovic%20-%20Dev%20Web%20(17012020).pdf" role="button">Curriculum vitæ</a><br/>
+            <a class="btn btn-danger" href="https://ludovic-leveneur.re/public/assets/cv.pdf" role="button">Curriculum vitæ</a><br/>
             <br/>
             <h3>L'architecte de votre vie numérique</h3>
 
