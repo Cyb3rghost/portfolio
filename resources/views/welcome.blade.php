@@ -449,6 +449,46 @@
         </div>
     </section>
     <hr class="m-0" />
+    <section class="resume-section" id="projects-mobile">
+        <div class="resume-section-content">
+            <h2 class="mb-5">Projets mobile</h2>
+
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6 mb-1">
+
+                            <a href="{{ asset('assets/img/mobileapp.png') }}"><img src="{{ asset('assets/img/mobileapp.png') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : React Native</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Portfolio version mobile</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Pour m'exercer sur react-native j'ai fait une version mobile de mon portfolio. (Uniquement Android)</div></div>
+                            <br/>
+                            <a href="{{ asset('assets/portfolio-signed.apk') }}" target="_blank"><button class="btn btn-primary btn-block">Télécharger l'APK</button></a>
+                            <br/>
+                            <button class="btn btn-primary btn-block" disabled>Github</button>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </section>
     <!-- Interests-->
     <section class="resume-section" id="interests">
         <div class="resume-section-content">

@@ -30,6 +30,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Formation</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projets</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects-mobile">Projets mobile</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Intérêts</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#documents">Documents</a></li>
                 </ul>
