@@ -413,6 +413,39 @@
 
             </div> 
 
+            
+            <div class="card mb-2">
+
+                <div class="card-body">
+
+                    <div class="row">
+
+                        <div class="col-md-6 mb-1">
+
+                            <a href="{{ asset('assets/img/07.png') }}"><img src="{{ asset('assets/img/07.png') }}" class="card-img-top" alt="..."></a>
+                            <br/><br/>
+                            <div class="card text-dark bg-light text-center"><div class="card-body">🔨 Outils : Framework CSS Bootstrap / Framework Laravel</div></div>
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <h4>💻 - Application Vidéos & cadeaux [Projet personnel]</h4>
+                            <br/>
+                            <div class="card text-white bg-dark text-center"><div class="card-body">Application de vidéos basé sur l'API de Youtube avec des récompenses en points et une boutique. [PWA Disponible]</div></div>
+                            <br/>
+                            <a href="https://demo07.ludovic-leveneur.re" target="_blank"><button class="btn btn-primary btn-block">Voir le projet</button></a>
+                            <br/>
+                            <a href="#" target="_blank"><button class="btn btn-primary btn-block" disabled>Github [INDISPONIBLE PRIVER]</button></a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div> 
+
             <div class="card mb-2">
 
                 <div class="card-body">
